@@ -4,7 +4,9 @@ p {
 }
 
 body {
-    width: 996px;
-    height: 616;
+    max-width: 996px;
+    max-height: 616;
+    margin-right: auto;
+    margin-left: auto;
     background-color: aliceblue;
 }
